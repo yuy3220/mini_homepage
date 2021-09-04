@@ -1,0 +1,79 @@
+.content-box {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.news-flex-box {
+  flex: 0 0 auto;
+  margin-bottom: 2rem;
+  display: flex;
+  font-size: 0.8rem;
+}
+
+.news-box {
+  flex: 1;
+}
+
+.update-box {
+  flex: 1;
+}
+
+.miniroom {
+  flex: 1;
+}
+
+.box-title {
+  font-family: "KOTRA_BOLD-Bold";
+  border-bottom: 1px solid grey;
+  color: #ab883b;
+}
+
+.news-row {
+  display: flex;
+  font-size: 0.85rem;
+  margin: 3px 0;
+}
+
+.news-category {
+  padding: 0 6px;
+  margin-right: 6px;
+  color: white;
+  border-radius: 3px;
+}
+
+.category-pic {
+  background-color: #dbb189;
+}
+
+.category-post {
+  background-color: #c19761;
+}
+
+.menu-row {
+  display: flex;
+  border-bottom: 1px dashed grey;
+  margin: 3px 0;
+}
+
+.menu-item {
+  flex: 1;
+}
+
+.menu-num {
+  font-family: "NeoDunggeunmo";
+  padding-left: 6px;
+  color: #72664b;
+}
+
+.miniroom-box {
+  padding-top: 50PX;
+}
+
+.content-title-url {
+  padding-right: 10px;
+}
+
+.miniroom-gif-box {
+  margin-top: 50px;
+}
